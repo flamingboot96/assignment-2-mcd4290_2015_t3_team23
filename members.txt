@@ -1,11 +1,5 @@
 LIST OF MEMBERS FOR TEAM 23
 
 MEMBER1 jinfeng Luo
-
-<<<<<<< HEAD
-MEMBER2 Chjl;sszdfljgse
-
-bfgthdxrjmyfdcuk
-=======
-MEMBER2 
->>>>>>> origin/master
+xfghfnhjfdxrjmsrhjnghj
+fghsdvtr
